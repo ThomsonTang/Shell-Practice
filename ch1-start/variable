@@ -1,0 +1,3 @@
+#! /bin/sh -
+myname=my_name_is_tim_duncan
+echo $myname
